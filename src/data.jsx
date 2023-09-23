@@ -12,7 +12,7 @@ export default[
     },
     {
         id:2,
-        country:"South Africa",
+        country:"SOUTH AFRICA",
         title:"KUGER NATIONAL PARK",
         date:"18 feb, 2022 - 12 jan, 2024",
         decription:`Kruger National Park is part of the collaborative effort between Zimbabwe and Mozambique.

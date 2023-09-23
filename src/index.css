@@ -19,7 +19,7 @@
     margin: 60px auto;
     display: flex;
     justify-content: center;
-    min-width: 550px;
+    
 }
 .main div{
     padding-top: 10px;
@@ -40,3 +40,33 @@
     margin: 0px 0px 10px 0px ;
 }
 
+@media screen and (max-width: 768px) {
+    .Header {
+        font-size: 24px;
+        padding: 20px;
+    }
+
+    .main {
+        margin: 20px auto;
+        flex-direction: column; 
+    }
+
+    .main img {
+        width: 100%; 
+        height: auto;
+    }
+
+    .main div {
+        
+        padding-top: 10px;
+        padding-left: 0; 
+    }
+
+    .content {
+        max-width: 100%; 
+    }
+
+    .sideitem {
+        font-size: 16px;
+    }
+}

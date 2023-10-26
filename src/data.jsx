@@ -35,7 +35,19 @@ export default[
         img:'../images/mustang_31566978182098.png'
 
     }
+{
+        id:4,
+        country:"NwEPAL",
+        title:"MUSTANGss",
+        date:"18 feb, 2022 - 12 jan, 2024",
+        decription:`Mustang lies at an altitude of 3,840 meters in the North-Western part of Nepal.
+         Annapurna and Nilgiri sddwmountain range are extended across the northern part.
+          This beautiful land is contrasted into two parts i.e. Upper mustang and lower mustang.
+           Mustang is an arid trans-Himalayan region with a lot of attractions. The diversity in culture,
+            traditions and the geography itself make it a wonderful piece of nature on the planet. `,
+        img:'../images/mustang_31566978182098.png'
 
+    }
     
 
 
